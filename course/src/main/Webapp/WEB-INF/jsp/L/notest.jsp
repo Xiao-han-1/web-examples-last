@@ -89,7 +89,7 @@
                         <li><a href="#about" class="page-scroll">学校概况</a></li>
                         <li><a href="#team" class="page-scroll">学校领导</a></li>
                         <li><a href="#testimonial" class="page-scroll">教师队伍</a></li>
-                        <li><a href="student.html" class="page-scroll">招生简章</a></li>
+                        <li><a href="#update" class="page-scroll">实验室</a></li>
                         <!--						<li><a href="#contact" class="page-scroll">联系方式</a></li>-->
                     </ul>
                 </div>
@@ -250,7 +250,7 @@
 </section>
 <!-- /testimonial section -->
 <!-- updates -->
-<section class="update-w3ls" >
+<section class="update-w3ls" id="update" >
     <div class="container">
         <h3 class="slideanim">实验室建设</h3>
         <div class="col-lg-6 col-md-6 update-info1">

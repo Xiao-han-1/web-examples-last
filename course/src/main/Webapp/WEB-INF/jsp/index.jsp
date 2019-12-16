@@ -251,7 +251,7 @@
 </section>
 <!-- /testimonial section -->
 <!-- updates -->
-<section class="update-w3ls" >
+<section class="update-w3ls" id="update" >
     <div class="container">
         <h3 class="slideanim">实验室建设</h3>
         <div class="col-lg-6 col-md-6 update-info1">
